@@ -4,8 +4,13 @@ description: This resource contains information on topics review how the physics
   leads to computational method, what is the complete computational method, what is
   the difference between a reaction rate and a reaction propensity and review from
   physics model to computational method.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-181-computation-for-biological-engineers-fall-2006/f10ecda11a5965185215b9975d8be30b_drenm_lec3.pdf
+file: /media/courses/20-181-computation-for-biological-engineers-fall-2006/f10ecda11a5965185215b9975d8be30b_drenm_lec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: drenm_lec3.pdf
 uid: f10ecda1-1a59-6518-5215-b9975d8be30b

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource is a supporting file for fibonacci.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-181-computation-for-biological-engineers-fall-2006/2e4e198a63c5e65d10968b7319fd7203_fibonacci_example.zip
+file: /media/courses/20-181-computation-for-biological-engineers-fall-2006/2e4e198a63c5e65d10968b7319fd7203_fibonacci_example.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Other
 title: fibonacci_example.zip
 uid: 2e4e198a-63c5-e65d-1096-8b7319fd7203
