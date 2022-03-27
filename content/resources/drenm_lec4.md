@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2d1c8ea9-0fdf-3dea-77c3-d175b103a31c
 resourcetype: Document
 title: drenm_lec4.pdf
 uid: a39523b0-c2eb-6ff7-6b5c-13551f591e03

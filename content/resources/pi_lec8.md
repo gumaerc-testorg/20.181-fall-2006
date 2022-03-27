@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2d1c8ea9-0fdf-3dea-77c3-d175b103a31c
 resourcetype: Document
 title: pi_lec8.pdf
 uid: 4a70856e-aada-0ef0-22f0-4edc7f1c8b55

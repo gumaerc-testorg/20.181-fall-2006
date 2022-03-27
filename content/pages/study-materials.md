@@ -34,4 +34,4 @@ For this tutorial we'll be working on emacs. Emacs is like pico (which you used 
     *   space bar to accept change and keep finding
     *   more info on [find and replace](http://kb.iu.edu/data/abdp.html)
 
-Python® code written during the refresher course, with some associated comments: OH1\_commentedcode.txt ([TXT](/courses/biological-engineering/20-181-computation-for-biological-engineers-fall-2006/study-materials/OH1_commentedcode.txt))
+Python® code written during the refresher course, with some associated comments: OH1\_commentedcode.txt ([TXT]({{< baseurl >}}/resources/oh1_commentedcode))

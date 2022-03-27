@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2d1c8ea9-0fdf-3dea-77c3-d175b103a31c
 resourcetype: Document
 title: drenm_lec6_revew.pdf
 uid: 2f849423-9767-38a0-09c5-fc0700462ac7

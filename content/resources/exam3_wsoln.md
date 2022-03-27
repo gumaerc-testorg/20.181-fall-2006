@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 976e6d34-4168-e12e-fdff-5802c9c8ff6e
 resourcetype: Document
 title: exam3_wsoln.pdf
 uid: 42c18c14-606a-b8ea-15d4-34095d403820

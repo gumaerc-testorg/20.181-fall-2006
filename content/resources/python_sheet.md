@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cdaac6d9-fa8d-0985-f397-e3cc20d29c21
 resourcetype: Document
 title: python_sheet.pdf
 uid: 3d539035-66ea-cbeb-484d-a95e3518af7d

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cdaac6d9-fa8d-0985-f397-e3cc20d29c21
 resourcetype: Other
 title: fibonacci_example.zip
 uid: 2e4e198a-63c5-e65d-1096-8b7319fd7203
