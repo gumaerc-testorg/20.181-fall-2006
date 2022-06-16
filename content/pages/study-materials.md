@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: The study materials section contains supplementary notes for course text
+  and additional topical notes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: cdaac6d9-fa8d-0985-f397-e3cc20d29c21
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Python® Tutorial
@@ -11,14 +17,14 @@ Python® Tutorial
 
 Given the programming content of 20.180's [assignments](/courses/20-180-biological-engineering-programming-spring-2006/pages/assignments) and the [superb tutorials](/courses/20-180-biological-engineering-programming-spring-2006/pages/study-materials) composed by its TAs, the class is assumed to have some experience with Python®. So, rather than offer a purely introductory tutorial to programming + Python®, the 20.181 TAs offered a short refresher course during office hours after the first lecture session.
 
-Python®+Emacs+Shell cheat sheet ([PDF]({{< baseurl >}}/resources/python_sheet))
+Python®+Emacs+Shell cheat sheet ({{% resource_link 3d539035-66ea-cbeb-484d-a95e3518af7d "PDF" %}})
 
 If you still crave more Python® tutorials here is a [list of 300 Python® Tutorials](http://www.tutorialized.com/tutorials/Python/1). You may also find [the official Python® documentation](http://docs.python.org/lib/) to be handy.
 
 Refresher Course on Python®/Emacs/Shell: Five Different Ways to do The Fibonacci Sequence
 -----------------------------------------------------------------------------------------
 
-Code for 20.181 Refresher Course ([ZIP]({{< baseurl >}}/resources/fibonacci_example)) (The ZIP file contains: fib.txt, fib\_module.py, and fibonacci\_tutorial.py.)
+Code for 20.181 Refresher Course ({{% resource_link 2e4e198a-63c5-e65d-1096-8b7319fd7203 "ZIP" %}}) (The ZIP file contains: fib.txt, fib\_module.py, and fibonacci\_tutorial.py.)
 
 Start with file fib\_module.py. This file defines a function called calc\_fib that we will use in method 1.
 
@@ -34,4 +40,4 @@ For this tutorial we'll be working on emacs. Emacs is like pico (which you used 
     *   space bar to accept change and keep finding
     *   more info on [find and replace](http://kb.iu.edu/data/abdp.html)
 
-Python® code written during the refresher course, with some associated comments: OH1\_commentedcode.txt ([TXT]({{< baseurl >}}/resources/oh1_commentedcode))
+Python® code written during the refresher course, with some associated comments: OH1\_commentedcode.txt ({{% resource_link daa38fbe-1e77-0398-b32a-fc9a94d4aaa6 "TXT" %}})
