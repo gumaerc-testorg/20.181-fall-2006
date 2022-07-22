@@ -6,6 +6,7 @@ file: /courses/20-181-computation-for-biological-engineers-fall-2006/664aa0042c0
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This zip file contains codebase (hw4.py); example tree (hw4_tree.txt) and sequence alignment (hw4_seqs.aln); and solution (hw4_soln.py).
-

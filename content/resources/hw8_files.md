@@ -5,6 +5,7 @@ file: /courses/20-181-computation-for-biological-engineers-fall-2006/8c23667e3bc
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This zip file contains: code and data files.
-

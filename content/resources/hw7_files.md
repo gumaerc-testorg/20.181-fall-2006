@@ -6,6 +6,7 @@ file: /courses/20-181-computation-for-biological-engineers-fall-2006/49f27614e3c
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This zip file contains example data (hw7_data.txt); Python module for vector math (vector.py); and a solution (hw7_sol.txt).
-

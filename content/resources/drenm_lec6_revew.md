@@ -5,6 +5,7 @@ file: /courses/20-181-computation-for-biological-engineers-fall-2006/2f849423976
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Things to review for Checkup 3.
-

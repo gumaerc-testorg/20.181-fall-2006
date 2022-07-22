@@ -7,6 +7,7 @@ file: /courses/20-181-computation-for-biological-engineers-fall-2006/24b0e01c019
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This zip file contains codebase (hw3.py); example trees in Newick form (hw3_tree.txt) and diagram (hw3_tree.pdf); a helper smaller test tree with answers (hw3_helper.pdf); and solution (hw3_sol.py).
-

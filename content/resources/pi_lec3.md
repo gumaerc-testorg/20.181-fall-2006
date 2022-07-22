@@ -6,6 +6,7 @@ file: /courses/20-181-computation-for-biological-engineers-fall-2006/ba82fa9837f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on topics phylogenetic trees, trees in python and parsing function.
-

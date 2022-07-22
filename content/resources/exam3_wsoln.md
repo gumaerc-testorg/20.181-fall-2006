@@ -5,6 +5,7 @@ file: /courses/20-181-computation-for-biological-engineers-fall-2006/42c18c14606
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is an exam file for module 3.
-
