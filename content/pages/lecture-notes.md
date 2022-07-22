@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This page presents complete lecture notes for modules 1 and 3, plus a
+  couple of notes for module 2.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2d1c8ea9-0fdf-3dea-77c3-d175b103a31c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents complete lecture notes for modules 1 and 3, plus a couple of notes for module 2.
@@ -34,7 +43,7 @@ TOPICS
 
 Course Overview
 
-Introduction to Phylogenetic Inference; Case Studies; Phylogenetic Trees; Quick Review of Recursion ([PDF]({{< baseurl >}}/resources/pi_lec1))
+Introduction to Phylogenetic Inference; Case Studies; Phylogenetic Trees; Quick Review of Recursion ({{% resource_link 2d11bf8f-6f83-faa3-fa1f-94575df8baea "PDF" %}})
 
 
 {{< tdclose >}}
@@ -45,7 +54,7 @@ Introduction to Phylogenetic Inference; Case Studies; Phylogenetic Trees; Quick 
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Review of UPGMA; Purpose of Phylogenetics; Newick Notation ([PDF]({{< baseurl >}}/resources/pi_lec2))
+Review of UPGMA; Purpose of Phylogenetics; Newick Notation ({{% resource_link ad2ed354-a22b-d5c1-9c62-737e2883a4fa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +67,7 @@ Review of UPGMA; Purpose of Phylogenetics; Newick Notation ([PDF]({{< baseurl >}
 
 Phylogenetic Trees: Overview, Possible Trees
 
-Python®: Trees; Data Structure, Parsing Function ([PDF]({{< baseurl >}}/resources/pi_lec3))
+Python®: Trees; Data Structure, Parsing Function ({{% resource_link ba82fa98-37f1-14c4-458e-179075d99ca7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -69,7 +78,7 @@ Python®: Trees; Data Structure, Parsing Function ([PDF]({{< baseurl >}}/resourc
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Parsimony; Sankoff Downpass Algorithm ([PDF]({{< baseurl >}}/resources/pi_lec4))
+Parsimony; Sankoff Downpass Algorithm ({{% resource_link 2cb4c59f-f0ef-6e2d-f4cc-6bb7df4c068b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +87,7 @@ Parsimony; Sankoff Downpass Algorithm ([PDF]({{< baseurl >}}/resources/pi_lec4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Downpass (cont.); Fitch's Up Pass ([PDF]({{< baseurl >}}/resources/pi_lec5))
+Downpass (cont.); Fitch's Up Pass ({{% resource_link 426e863c-6a22-82e9-94af-045abb498c56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +96,7 @@ Downpass (cont.); Fitch's Up Pass ([PDF]({{< baseurl >}}/resources/pi_lec5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Up Pass (cont.) ([PDF]({{< baseurl >}}/resources/pi_lec6))
+Up Pass (cont.) ({{% resource_link 8ea70767-e2c7-ce66-1492-8401c8e6f376 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +105,7 @@ Up Pass (cont.) ([PDF]({{< baseurl >}}/resources/pi_lec6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Parsimony (cont.); Overall Strategy; Maximum Likelihood (ML); Jukes-Cantor; Evolutionary Model ([PDF]({{< baseurl >}}/resources/pi_lec7))
+Parsimony (cont.); Overall Strategy; Maximum Likelihood (ML); Jukes-Cantor; Evolutionary Model ({{% resource_link e5f050a2-9827-56b2-a5fa-9bc18b98f06d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +118,7 @@ Parsimony (cont.); Overall Strategy; Maximum Likelihood (ML); Jukes-Cantor; Evol
 
 Greedy Algorithm for Trying Trees
 
-Review ([PDF]({{< baseurl >}}/resources/pi_lec8))
+Review ({{% resource_link 4a70856e-aada-0ef0-22f0-4edc7f1c8b55 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -139,7 +148,7 @@ Exam 1
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to The Protein Design Problem. What Makes Proteins Fold? Entropy ([PDF]({{< baseurl >}}/resources/mmpd_lec1))
+Introduction to The Protein Design Problem. What Makes Proteins Fold? Entropy ({{% resource_link 31322ace-3003-8533-a840-c512902421dc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +175,7 @@ MM/PD Lecture 3
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Dihedrals, Build Order ([PDF]({{< baseurl >}}/resources/mmpd_lec4)) (Courtesy of Mike Yee. Used with permission.)
+Dihedrals, Build Order ({{% resource_link 9b841a74-e780-5b74-b692-d59d76a11b3b "PDF" %}}) (Courtesy of Mike Yee. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +235,7 @@ Exam 2
 19
 {{< tdclose >}}
 {{< tdopen >}}
-When to Use Computational Methods vs. Exact Methods; The Physics Model Underlying Exact Methods ([PDF]({{< baseurl >}}/resources/drenm_lec1))
+When to Use Computational Methods vs. Exact Methods; The Physics Model Underlying Exact Methods ({{% resource_link c16ad653-24ee-6377-65ac-6d4e796df77b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +244,7 @@ When to Use Computational Methods vs. Exact Methods; The Physics Model Underlyin
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Physics Model Underlying Exact Methods (cont.); Using Physics Model to Compute When a Reaction will Take Place. ([PDF]({{< baseurl >}}/resources/drenm_lec2))
+Physics Model Underlying Exact Methods (cont.); Using Physics Model to Compute When a Reaction will Take Place. ({{% resource_link d9cbe18b-3f94-0058-0cf6-8f775e1a597a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +253,7 @@ Physics Model Underlying Exact Methods (cont.); Using Physics Model to Compute W
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Review of How Physics Model Leads to Computational Method; The Complete Computational Method (Gillespie's Direct and First Reaction Methods) ([PDF]({{< baseurl >}}/resources/drenm_lec3))
+Review of How Physics Model Leads to Computational Method; The Complete Computational Method (Gillespie's Direct and First Reaction Methods) ({{% resource_link f10ecda1-1a59-6518-5215-b9975d8be30b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +262,7 @@ Review of How Physics Model Leads to Computational Method; The Complete Computat
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Difference Between Reaction Rate and Reaction Propensity; Achieving Faster Computation ([PDF]({{< baseurl >}}/resources/drenm_lec4))
+Difference Between Reaction Rate and Reaction Propensity; Achieving Faster Computation ({{% resource_link a39523b0-c2eb-6ff7-6b5c-13551f591e03 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +271,7 @@ Difference Between Reaction Rate and Reaction Propensity; Achieving Faster Compu
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Next Reaction Method Algorithm; Application to Genetic Memory (Latch) ([PDF]({{< baseurl >}}/resources/drenm_lec5))
+Next Reaction Method Algorithm; Application to Genetic Memory (Latch) ({{% resource_link 83166355-f64d-f602-ab19-811b9311fee9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +280,7 @@ Next Reaction Method Algorithm; Application to Genetic Memory (Latch) ([PDF]({{<
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Review of Key Concepts ([PDF 1]({{< baseurl >}}/resources/drenm_lec6)) ([PDF 2]({{< baseurl >}}/resources/drenm_lec6_revew))
+Review of Key Concepts ({{% resource_link bb47732c-25dd-fc5a-6730-5045a8c8ea67 "PDF 1" %}}) ({{% resource_link 2f849423-9767-38a0-09c5-fc0700462ac7 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
