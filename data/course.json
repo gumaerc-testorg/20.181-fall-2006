@@ -38,7 +38,7 @@
     "website": "20-181-computation-for-biological-engineers-fall-2006"
   },
   "course_title": "Computation for Biological Engineers",
-  "course_description": "This course covers the analytical, graphical, and numerical methods supporting the analysis and design of integrated biological systems. Topics include modularity and abstraction in biological systems, mathematical encoding of detailed physical problems, numerical methods for solving the dynamics of continuous and discrete chemical systems, statistics and probability in dynamic systems, applied local and global optimization, simple feedback and control analysis, statistics and probability in pattern recognition.\n\nAn official course Web site and Wiki is maintained on OpenWetWare: [20.181 Computation for Biological Engineers](http://openwetware.org/wiki/20.181).\n",
+  "course_description": "This course covers the analytical, graphical, and numerical methods supporting the analysis and design of integrated biological systems. Topics include modularity and abstraction in biological systems, mathematical encoding of detailed physical problems, numerical methods for solving the dynamics of continuous and discrete chemical systems, statistics and probability in dynamic systems, applied local and global optimization, simple feedback and control analysis, statistics and probability in pattern recognition.\n\nAn official course Web site and Wiki is maintained on OpenWetWare: {{% resource_link \"67057d5a-06bd-4e5c-9dd7-b06ed3331f34\" \"20.181 Computation for Biological Engineers\" %}}.\n",
   "department_numbers": [
     "20"
   ],
