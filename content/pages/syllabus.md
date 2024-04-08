@@ -25,7 +25,7 @@ Prerequisites
 Assignments and Exams
 ---------------------
 
-There will be short assignments distributed at almost every lecture. We expect that all assignments will be turned in by midnight on the day they are due. You may discuss assignments with your classmates but we expect that you will submit your own work. Late assignments (up to one week late) will be given 1/2 credit; solutions for assignments will be posted at the posted due date. A family crisis or severe illness requiring attention from the infirmary and prohibiting you from all your coursework are acceptable reasons for missing an exam; every effort will be made to accommodate you in these exceptional circumstances. More information regarding academic integrity is available [here](http://web.mit.edu/academicintegrity/).
+There will be short assignments distributed at almost every lecture. We expect that all assignments will be turned in by midnight on the day they are due. You may discuss assignments with your classmates but we expect that you will submit your own work. Late assignments (up to one week late) will be given 1/2 credit; solutions for assignments will be posted at the posted due date. A family crisis or severe illness requiring attention from the infirmary and prohibiting you from all your coursework are acceptable reasons for missing an exam; every effort will be made to accommodate you in these exceptional circumstances. More information regarding academic integrity is available {{% resource_link "bd4c5a7c-653c-4b37-82e0-34c6838e0bd4" "here" %}}.
 
 Grading
 -------
