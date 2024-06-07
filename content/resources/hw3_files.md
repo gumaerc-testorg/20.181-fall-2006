@@ -4,6 +4,7 @@ description: This zip file contains codebase (hw3.py); example trees in Newick f
   (hw3_tree.txt) and diagram (hw3_tree.pdf); a helper smaller test tree with answers
   (hw3_helper.pdf); and solution (hw3_sol.py).
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/24b0e01c01979d02784acdc6f29666ab_hw3_files.zip
+file_size: 30117
 file_type: application/zip
 learning_resource_types:
 - Assignments

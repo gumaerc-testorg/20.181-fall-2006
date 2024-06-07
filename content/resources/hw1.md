@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics phylogenies and the UPGMA
   algorithm.
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/1ce0897f29f6b9704a561deb844062b2_hw1.pdf
+file_size: 57099
 file_type: application/pdf
 learning_resource_types:
 - Assignments

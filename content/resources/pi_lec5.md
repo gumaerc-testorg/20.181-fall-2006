@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics downpass, sankoff downpass
   algorithm and fitch's upPass.
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/426e863c6a2282e994af045abb498c56_pi_lec5.pdf
+file_size: 117664
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
