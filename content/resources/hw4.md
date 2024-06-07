@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains questions on topics the downpass algorithm and
   biological computation.
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/dd67d56a326e8b34215d01392092fbe0_hw4.pdf
+file_size: 65277
 file_type: application/pdf
 learning_resource_types:
 - Assignments

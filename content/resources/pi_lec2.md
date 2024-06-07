@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics going over UPGMA and newick
   notation.
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/ad2ed354a22bd5c19c62737e2883a4fa_pi_lec2.pdf
+file_size: 64208
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
