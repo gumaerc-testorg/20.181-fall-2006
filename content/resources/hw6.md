@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions on topic building a polymer.
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/df21acce9b5f4b7182d1dfbe2716a18a_hw6.pdf
+file_size: 41686
 file_type: application/pdf
 learning_resource_types:
 - Assignments

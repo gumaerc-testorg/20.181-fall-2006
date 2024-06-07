@@ -2,6 +2,7 @@
 content_type: resource
 description: This zip file contains solutions to fibonacci and UPGMA portions.
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/c08f7b0922796cbdf6502f81989dc386_hw1_files.zip
+file_size: 1108792
 file_type: application/zip
 learning_resource_types:
 - Assignments

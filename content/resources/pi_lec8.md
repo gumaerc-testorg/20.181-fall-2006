@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics probability of a tree, marginalizing,
   designing an algorithm and greedy algorithm for trying trees.
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/4a70856eaada0ef022f04edc7f1c8b55_pi_lec8.pdf
+file_size: 192762
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

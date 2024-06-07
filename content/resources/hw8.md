@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions on topic biological computation.
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/e00021885350d7dcbeed02f2c858ffe6_hw8.pdf
+file_size: 70600
 file_type: application/pdf
 learning_resource_types:
 - Assignments

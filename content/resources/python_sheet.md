@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is cheet sheet for shell, emacs and python.
 file: /courses/20-181-computation-for-biological-engineers-fall-2006/3d53903566eacbeb484da95e3518af7d_python_sheet.pdf
+file_size: 76265
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
