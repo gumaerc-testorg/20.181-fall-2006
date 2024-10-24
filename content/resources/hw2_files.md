@@ -2,7 +2,7 @@
 content_type: resource
 description: This zip file contains codebase (hw2.py), example tree (hw2_tree.txt),
   and a solution (hw2_sol.py).
-file: /courses/20-181-computation-for-biological-engineers-fall-2006/14a3b3377de0b039870560d5c1dd77df_hw2_files.zip
+file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/14a3b3377de0b039870560d5c1dd77df_hw2_files.zip
 file_size: 3147
 file_type: application/zip
 learning_resource_types:

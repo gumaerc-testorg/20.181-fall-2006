@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is an exam file for module 3.
-file: /courses/20-181-computation-for-biological-engineers-fall-2006/42c18c14606ab8ea15d434095d403820_exam3_wsoln.pdf
+file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/42c18c14606ab8ea15d434095d403820_exam3_wsoln.pdf
 file_size: 73579
 file_type: application/pdf
 learning_resource_types:
