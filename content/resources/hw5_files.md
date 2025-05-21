@@ -3,7 +3,7 @@ content_type: resource
 description: This zip file contains codebase (hw5.py); example tree (hw5_tree.txt)
   and sequence alignment (hw5_seqs.aln); jukes-cantor placeholding code (hw5_evomodel_sad.pdf);
   a solution (hw5_sol.py); and a derivation (hw5_derivation.pdf).
-file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/b4ac7298568fa1c46c97818e44028c20_hw5_files.zip
+file: /courses/20-181-computation-for-biological-engineers-fall-2006/b4ac7298568fa1c46c97818e44028c20_hw5_files.zip
 file_size: 96605
 file_type: application/zip
 learning_resource_types:

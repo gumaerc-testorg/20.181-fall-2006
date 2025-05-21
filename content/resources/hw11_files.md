@@ -2,7 +2,7 @@
 content_type: resource
 description: This zip file contains directory of code and data files (\media), hints
   and solution.
-file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/bbbdd341ab68b1125377222881d8ce10_hw11_files.zip
+file: /courses/20-181-computation-for-biological-engineers-fall-2006/bbbdd341ab68b1125377222881d8ce10_hw11_files.zip
 file_size: 59700
 file_type: application/zip
 learning_resource_types:

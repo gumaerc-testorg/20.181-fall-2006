@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on topic phylogenetic inference.
-file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/2d11bf8f6f83faa3fa1f94575df8baea_pi_lec1.pdf
+file: /courses/20-181-computation-for-biological-engineers-fall-2006/2d11bf8f6f83faa3fa1f94575df8baea_pi_lec1.pdf
 file_size: 109947
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions on topics the evolutionary model, coding
   the model and the maximum likelihood calculation.
-file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/c991826f20a9b2bdcd1deaf8e93b7607_hw5.pdf
+file: /courses/20-181-computation-for-biological-engineers-fall-2006/c991826f20a9b2bdcd1deaf8e93b7607_hw5.pdf
 file_size: 58678
 file_type: application/pdf
 learning_resource_types:

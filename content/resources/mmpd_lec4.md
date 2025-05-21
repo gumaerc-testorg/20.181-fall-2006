@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics protein backbone and improper
   dihedrals.
-file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/9b841a74e7805b74b692d59d76a11b3b_mmpd_lec4.pdf
+file: /courses/20-181-computation-for-biological-engineers-fall-2006/9b841a74e7805b74b692d59d76a11b3b_mmpd_lec4.pdf
 file_size: 105305
 file_type: application/pdf
 learning_resource_types:

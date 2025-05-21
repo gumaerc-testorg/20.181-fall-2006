@@ -2,7 +2,7 @@
 content_type: resource
 description: This zip file contains codebase (hw4.py); example tree (hw4_tree.txt)
   and sequence alignment (hw4_seqs.aln); and solution (hw4_soln.py).
-file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/664aa0042c0845ebe10817fb2d6a6972_hw4_files.zip
+file: /courses/20-181-computation-for-biological-engineers-fall-2006/664aa0042c0845ebe10817fb2d6a6972_hw4_files.zip
 file_size: 4221
 file_type: application/zip
 learning_resource_types:
