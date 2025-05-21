@@ -2,7 +2,7 @@
 content_type: resource
 description: This zip file contains example data (hw6_data.txt) and syntax helper
   (hw6_helper.pdf).
-file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/b2111b2299df28390ef7019d54b2cb24_hw6_files.zip
+file: /courses/20-181-computation-for-biological-engineers-fall-2006/b2111b2299df28390ef7019d54b2cb24_hw6_files.zip
 file_size: 20290
 file_type: application/zip
 learning_resource_types:
