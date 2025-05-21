@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics phylogenetic trees, trees
   in python and parsing function.
-file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/ba82fa9837f114c4458e179075d99ca7_pi_lec3.pdf
+file: /courses/20-181-computation-for-biological-engineers-fall-2006/ba82fa9837f114c4458e179075d99ca7_pi_lec3.pdf
 file_size: 67601
 file_type: application/pdf
 learning_resource_types:

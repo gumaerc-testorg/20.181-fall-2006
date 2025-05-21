@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions on topic biological computation.
-file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/b59a80f80fafadbdbcb3bd246ce5e8c0_hw7.pdf
+file: /courses/20-181-computation-for-biological-engineers-fall-2006/b59a80f80fafadbdbcb3bd246ce5e8c0_hw7.pdf
 file_size: 51178
 file_type: application/pdf
 learning_resource_types:
