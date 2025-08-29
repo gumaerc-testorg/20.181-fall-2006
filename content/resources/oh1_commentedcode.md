@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for python code.
-file: /courses/20-181-computation-for-biological-engineers-fall-2006/daa38fbe1e770398b32afc9a94d4aaa6_OH1_commentedcode.txt
+file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/daa38fbe1e770398b32afc9a94d4aaa6_OH1_commentedcode.txt
 file_size: 2146
 file_type: text/plain
 learning_resource_types: []

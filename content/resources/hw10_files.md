@@ -2,7 +2,7 @@
 content_type: resource
 description: This zip file contains directory of code and data files (\media) and
   solutions in PDF and Python form.
-file: /courses/20-181-computation-for-biological-engineers-fall-2006/59eb01bd322c8960eda37ea3158c2e10_hw10_files.zip
+file: /ol-ocw-studio-app/courses/20-181-computation-for-biological-engineers-fall-2006/59eb01bd322c8960eda37ea3158c2e10_hw10_files.zip
 file_size: 14389
 file_type: application/zip
 learning_resource_types:
