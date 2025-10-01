@@ -19,7 +19,7 @@ Given the programming content of 20.180's [assignments](/courses/20-180-biologic
 
 Python®+Emacs+Shell cheat sheet ({{% resource_link 3d539035-66ea-cbeb-484d-a95e3518af7d "PDF" %}})
 
-If you still crave more Python® tutorials here is a [list of 300 Python® Tutorials](http://www.tutorialized.com/tutorials/Python/1). You may also find [the official Python® documentation](http://docs.python.org/lib/) to be handy.
+If you still crave more Python® tutorials here is a {{% resource_link "2e734184-c7a6-4e58-b7c9-f3515cd578fc" "list of 300 Python® Tutorials" %}}. You may also find {{% resource_link "144f2889-cb5a-49a9-b326-ab3583574a9c" "the official Python® documentation" %}} to be handy.
 
 Refresher Course on Python®/Emacs/Shell: Five Different Ways to do The Fibonacci Sequence
 -----------------------------------------------------------------------------------------
@@ -38,6 +38,6 @@ For this tutorial we'll be working on emacs. Emacs is like pico (which you used 
     *   M-% (alt-shift-5)
     *   you have to have your cursor at the top of the file
     *   space bar to accept change and keep finding
-    *   more info on [find and replace](http://kb.iu.edu/data/abdp.html)
+    *   more info on {{% resource_link "ae7c6517-8c37-4b86-b1b2-b090dd21cdba" "find and replace" %}}
 
 Python® code written during the refresher course, with some associated comments: OH1\_commentedcode.txt ({{% resource_link daa38fbe-1e77-0398-b32a-fc9a94d4aaa6 "TXT" %}})
