@@ -68,7 +68,7 @@ Assignment 4 ({{% resource_link dd67d56a-326e-8b34-215d-01392092fbe0 "PDF" %}})
 
 hw4\_files.zip ({{% resource_link 664aa004-2c08-45eb-e108-17fb2d6a6972 "ZIP" %}}) (This zip file contains: codebase (hw4.py); example tree (hw4\_tree.txt) and sequence alignment (hw4\_seqs.aln); and solution (hw4\_soln.py).)
 
-[Using Sets in Python®](http://en.wikibooks.org/wiki/Python_Programming/Sets)
+{{% resource_link "6f5f49e4-d9bd-45d1-90a3-33262e980e6a" "Using Sets in Python®" %}}
 
 
 {{< tdclose >}}
